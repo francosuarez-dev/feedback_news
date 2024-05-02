@@ -253,7 +253,7 @@ function inserta_feed(){
 function obtienePorcenFeed ($calif,$id_post){
 	global $wpdb;
 	
-	$table_name= $wpdb->prefix . "feedback_hoy";
+	$table_name= $wpdb->prefix . "feedback_news";
 	
 	$consulta = "SELECT * FROM $table_name WHERE `id_post` = $id_post";
 	$wpdb->query($consulta);
