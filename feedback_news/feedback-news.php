@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: FeedBack Noticias
-Plugin URI: http://www.informativohoy.com.ar/
+Plugin URI: https://github.com/francosuarez-dev/feedback_news
 Description: Permite a tus lectores reaccionar al articulo que estan leyendo.
 Author: Franco Suarez
 Author URI: https://www.github.com/francosuarez-dev
 Version: 1.1
-License: GNU
+License: GPLv2 or later.
 */
 
 
